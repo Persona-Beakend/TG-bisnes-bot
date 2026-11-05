@@ -4,7 +4,7 @@
 
   <h1>TG Business Bot</h1>
 
-  <p>Асинхронний Telegram-бот для бізнесу, побудований на Python за допомогою aiogram 3.x та Docker.</p>
+  <p>Асинхронний Telegram-бот для звичок, побудований на Python за допомогою aiogram 3.x та Docker.</p>
 
 </div>
 
