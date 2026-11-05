@@ -2,7 +2,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" width="120" />
 
-  <h1>TG Business Bot</h1>
+  <h1>TG Bot</h1>
 
   <p>Асинхронний Telegram-бот для звичок, побудований на Python за допомогою aiogram 3.x та Docker.</p>
 
